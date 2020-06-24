@@ -1,8 +1,14 @@
 #!/usr/bin/env python3
-# Made by barre kevin
-# https://www.linkedin.com/in/kevin-barre-neudinger/
-# kevin.barre@epitech.eu
-# https://kevinb.alwaysdata.net/
+__author__ = "Barre Kevin"
+__maintainer__ = "Barre kevin"
+__version__ = "1.0.0"
+__credits__ = ["Stanislas de Maigret (INA-engineer)",
+               "https://foxcub.fr/"]
+__email__ = "kevin.barre@epitech.eu"
+__status__ = "Production"
+__contact__ = "https://www.linkedin.com/in/kevin-barre-neudinger/"
+__license__ = "EUPL"
+
 import sys
 # i used these links to solve the problem.
 # https://fr.wikipedia.org/wiki/Programmation_dynamique
