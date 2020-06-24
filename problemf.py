@@ -2,8 +2,6 @@
 __author__ = "Barre Kevin"
 __maintainer__ = "Barre kevin"
 __version__ = "1.0.0"
-__credits__ = ["Stanislas de Maigret (INA-engineer)",
-               "https://foxcub.fr/"]
 __email__ = "kevin.barre@epitech.eu"
 __status__ = "Production"
 __contact__ = "https://www.linkedin.com/in/kevin-barre-neudinger/"
