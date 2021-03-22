@@ -12,7 +12,7 @@ import sys
 # https://fr.wikipedia.org/wiki/Programmation_dynamique
 # https://fr.wikipedia.org/wiki/M%C3%A9mo%C3%AFsation
 # https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_complexit%C3%A9_(informatique_th%C3%A9orique)
-# https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_l%27arbre_de_Steiners
+# https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_l%27arbre_de_Steiner
 # https://fr.wikipedia.org/wiki/21_probl%C3%A8mes_NP-complets_de_Karp
 
 
